@@ -1,3 +1,14 @@
+apertium-eo-en (1.0.0~r63833-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Rebuild for Jessie.
+  * debian/control:
+    + Fixed dependencies.
+    + Fixed Vcs URLs.
+  * Simplified debian/rules to remove locales usage.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 15 Jun 2016 16:52:22 +0530
+
 apertium-eo-en (1.0.0+svn~57870-1) trusty; urgency=low
 
   * Initial release based on Tino Didriksen's work.
